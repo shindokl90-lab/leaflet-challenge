@@ -1,8 +1,7 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
-## Explore the Map: 
-https://shindokl90-lab.github.io/leaflet-challenge/
-
+## Explore the Map
+<a href="https://shindokl90-lab.github.io/leaflet-challenge/" rel="nofollow">Explore The Earthquake Map</a>
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
